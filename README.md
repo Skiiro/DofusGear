@@ -5,4 +5,6 @@ Ce programme permettra aux joueurs de pouvoir jouer au jeu Dofus plus facilement
 #Fonctionnalités validées
 
 #Fonctionnalités en cours
-  Système de gestion de familiers
+  -Système de gestion de familiers
+  
+#Fonctionnalités à implémenter

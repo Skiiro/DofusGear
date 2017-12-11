@@ -43,6 +43,13 @@ private:
     int createTables();
 
     static DataBase* mInstance;
+
+    /**
+     * @fn fillPetsTable
+     * @brief Fill pets table
+     * @return error code
+     */
+    int fillPetsTable();
 };
 
 #endif // DATABASE_H
