@@ -1,0 +1,10 @@
+#ifndef ERRORCODE_H
+#define ERRORCODE_H
+
+#define OK 0
+
+//Database
+#define DATABASENOTOPENED -1
+#define IMPOSSIBLECREATEDATABASETABLE -2
+
+#endif // ERRORCODE_H
